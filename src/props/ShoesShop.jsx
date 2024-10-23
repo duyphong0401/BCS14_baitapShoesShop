@@ -162,7 +162,7 @@ const ShoesShop = () => {
                 {renderProductList()}
             </div>
 
-            <ShoesDetail shoesObj={shoesObj} />
+            <ShoesDetail shoesObj={shoesObj}  />
         </>
     )
 }
